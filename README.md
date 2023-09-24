@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    👋 Hi, I'm @leeadk
-    🖥️ My interests include lower-level programming, primarily C++
-    🤖 Integrating, optimizing AI frameworks in products
-    📚 Using NVIDIA libraries and GPU parallel computing
-    🤝 Open to collaboration
-    📧 Contact me: leeadk@gmail.com
+👋 Hi, I'm @leeadk  
+🖥️ My interests include lower-level programming, primarily C++  
+🤖 Integrating, optimizing AI frameworks in products  
+📚 Using NVIDIA libraries and GPU parallel computing  
+🤝 Open to collaboration  
+📧 Contact me: leeadk@gmail.com  
